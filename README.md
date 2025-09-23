@@ -21,7 +21,7 @@
 ## Status
 
  <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroka72&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroka72&theme=dracula&hide_langs_below=2" />
 </a> 
 
 
