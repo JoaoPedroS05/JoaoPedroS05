@@ -10,7 +10,7 @@
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU33yvIQWIHDHIFJP60iBErrDQVrCTlH7DsA&s"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBKGzgKHQA42GTo40DCQUnNVkUWd3FMzFJA&s"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -20,11 +20,9 @@
 
 ## Status
 
- <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS05&theme=dracula&hide_langs_below=2" />
-</a> 
-
-
+<div align="center">
+<a href="https://github.com/JoaoPedroS05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS05&theme=dark&ring=da2412&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
+</div>
 
 
 [twitter]: https://x.com/JPedroka22
